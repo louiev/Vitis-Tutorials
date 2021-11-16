@@ -136,7 +136,7 @@ This tutorial introduces you to performance analysis and optimization methods, a
   <tr>
  <td align="center"><a href="./Feature_Tutorials/14-implementing-iir-filter/">Implementing an IIR Filter on the AI Engine</a></td>
  <td>
-This multi-part tutorial describes how to implement an [infinite impulse response (IIR) filter](https://en.wikipedia.org/wiki/Infinite_impulse_response) on the AI Engine.</td>
+This multi-part tutorial describes how to implement an infinite impulse response (IIR) filter on the AI Engine.</td>
  </tr>
  </table>
 
